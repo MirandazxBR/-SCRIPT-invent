@@ -1,0 +1,25 @@
+<meta>
+    <info author="MD" type="script" version="1.0" name="Sistema de Inventario Pro" />
+
+    <script src="config_items.lua" type="shared" />
+    <script src="client.lua" type="client" />
+    <script src="server.lua" type="server" />
+
+    <file src="assets/abrir.mp3" />
+    <file src="assets/fechar.mp3" />
+	<file src="assets/sounds/equipar.mp3" />
+    <file src="assets/sounds/desequipar.mp3" />
+    <file src="assets/sounds/medkit.mp3" />
+    <file src="assets/sounds/bandagem.mp3" />
+    <file src="assets/sounds/beber.mp3" />
+    <file src="assets/sounds/comer.mp3" />
+
+    <file src="assets/ak47.png" />
+    <file src="assets/pao.png" />
+    <file src="assets/coca.png" />
+    <file src="assets/ammo.png" />
+    <file src="assets/medkit.png" />
+
+    <file src="assets/bandagem.png" />
+    <file src="assets/backpack.png" />
+</meta>
